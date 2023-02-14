@@ -1,0 +1,9 @@
+#loremText{
+    column-count:2;
+}
+
+@media (max-width: 768px){
+    #loremText{
+        column-count: 1;
+    }
+}
